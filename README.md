@@ -22,9 +22,12 @@ To navigate to the USTC Student Portal, click the Services dropdown in the navba
 
 ##  🛠️ Tools and Programming Languages Used
 
-<img src="assets\img\tools\bootstrap.png" width="32" height="32">
-<img src="assets\img\tools\html.png" width="32" height="32">
-<img src="assets\img\tools\css.png" width="32" height="32">
-<img src="assets\img\tools\js.png" width="32" height="32">
-<img src="assets\img\tools\git.png" width="32" height="32">
-<img src="assets\img\tools\vscode.png" width="32" height="32">
+<p float="left">
+    <img src="assets\img\tools\bootstrap.png" width="32" height="32">
+    <img src="assets\img\tools\html.png" width="32" height="32">
+    <img src="assets\img\tools\css.png" width="32" height="32">
+    <img src="assets\img\tools\js.png" width="32" height="32">
+    <img src="assets\img\tools\git.png" width="32" height="32">
+    <img src="assets\img\tools\vscode.png" width="32" height="32">
+</p>
+
